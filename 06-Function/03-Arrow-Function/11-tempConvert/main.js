@@ -1,0 +1,1 @@
+let convertFtoC = (farenhite) => (farenhite -32) * 5 / 9
